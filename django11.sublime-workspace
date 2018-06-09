@@ -1,0 +1,440 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"toLowerCase"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"on",
+				"onInputEnter"
+			],
+			[
+				"vi",
+				"videoSearch"
+			],
+			[
+				"video",
+				"videoSearch"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"Video",
+				"VideoListItem"
+			],
+			[
+				"img",
+				"imageUrl"
+			],
+			[
+				"im",
+				"imageUrl"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"v",
+				"video"
+			],
+			[
+				"V",
+				"VideoListItem"
+			],
+			[
+				"ren",
+				"render"
+			],
+			[
+				"e",
+				"extends"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"o",
+				"OnInputChange"
+			],
+			[
+				"Searc",
+				"Search_bar"
+			],
+			[
+				"Rea",
+				"ReactDOM"
+			],
+			[
+				"sc",
+				"script\tTag"
+			],
+			[
+				"Reac",
+				"ReactDOM"
+			],
+			[
+				"M",
+				"MyFirstComponet"
+			],
+			[
+				"reac",
+				"ReactDOM"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"m",
+				"MyFirstComponet"
+			],
+			[
+				"Re",
+				"ReactDOM"
+			],
+			[
+				"s",
+				"state\tReact: this.state"
+			],
+			[
+				"My",
+				"MyFirstComponent"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"r",
+				"render"
+			],
+			[
+				"htm",
+				"html5\tSimple HTML5 Boilerplate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/tryDjango1/settings/production.py",
+			"settings":
+			{
+				"buffer_size": 3120,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"BOXY",
+				"Boxy Theme: Configuration"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Install Package Control"
+			]
+		],
+		"width": 406.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/caffreychang/anaconda3/envs/django11",
+		"/Users/caffreychang/anaconda3/envs/django11/src",
+		"/Users/caffreychang/anaconda3/envs/django11/src/tryDjango1",
+		"/Users/caffreychang/anaconda3/envs/django11/src/tryDjango1/settings"
+	],
+	"file_history":
+	[
+		"/Users/caffreychang/anaconda3/envs/django11/src/tryDjango1/settings/base.py",
+		"/Users/caffreychang/anaconda3/envs/django11/src/tryDjango1/settings/local.py",
+		"/Users/caffreychang/anaconda3/envs/django11/src/tryDjango1/settings/production.py",
+		"/Users/caffreychang/anaconda3/envs/django11/src/requirements.txt",
+		"/Users/caffreychang/anaconda3/envs/django11/src/manage.py",
+		"/Users/caffreychang/anaconda3/envs/django11/src/tryDjango1/old_settings.py",
+		"/Users/caffreychang/anaconda3/envs/django11/src/settings/production.py",
+		"/Users/caffreychang/anaconda3/envs/django11/src/settings/base.py",
+		"/Users/caffreychang/anaconda3/envs/django11/src/settings/__init__.py",
+		"/Users/caffreychang/anaconda3/envs/django11/src/settings/local.py",
+		"/Users/caffreychang/Downloads/信義區.json",
+		"/Users/caffreychang/Downloads/untitled.html",
+		"/Users/caffreychang/Test_site/Python/python_01/list.py",
+		"/Users/caffreychang/Test_site/Python/python_01/helloworld.py",
+		"/Users/caffreychang/Downloads/neighborhood-map-master/index.html",
+		"/Users/caffreychang/ID.txt",
+		"/Users/caffreychang/Downloads/RData.csv",
+		"/Users/caffreychang/Test_site/R/production2015_rvised.csv",
+		"/Users/caffreychang/Downloads/r0920.R",
+		"/Users/caffreychang/Test_site/React/ReduxSimpleStarter/src/componets/search_bar.js",
+		"/Users/caffreychang/Test_site/React/ReduxSimpleStarter/src/componets/video_list_item.js",
+		"/Users/caffreychang/Test_site/React/ReduxSimpleStarter/src/componets/video_detail.js",
+		"/Users/caffreychang/Test_site/React/ReduxSimpleStarter/src/componets/video_list.js",
+		"/Users/caffreychang/Test_site/React/ReduxSimpleStarter/src/index.js",
+		"/Users/caffreychang/Test_site/React/ReduxSimpleStarter/style/style.css",
+		"/Users/caffreychang/Test_site/React/ReduxSimpleStarter/index.html",
+		"/Users/caffreychang/Test_site/React/ReduxSimpleStarter/package.json",
+		"/Users/caffreychang/Desktop/123.txt",
+		"/Users/caffreychang/Test_site/web_HTML5/app/index.js",
+		"/Users/caffreychang/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/Users/caffreychang/Test_site/web_HTML5/package.json",
+		"/Users/caffreychang/Test_site/web_HTML5/Component/index.js",
+		"/Users/caffreychang/Test_site/web_HTML5/index.html",
+		"/Users/caffreychang/Test_site/web_HTML5/test.html",
+		"/Users/caffreychang/Test_site/web_HTML5/webpack.config.js",
+		"/Users/caffreychang/Test_site/web_HTML5/.babelrc",
+		"/Users/caffreychang/Test_site/web_HTML5/untitled",
+		"/usr/local/lib/node_modules/npm/package.json",
+		"/usr/local/lib/node_modules/npm/bin/npm-cli.js"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 150.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/tryDjango1/settings/production.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								753,
+								753
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "django11.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"index",
+				"index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 218.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
